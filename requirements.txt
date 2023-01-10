@@ -1,0 +1,13 @@
+Flask
+twder
+line-bot-sdk
+twstock
+pyimgur
+DateTime
+matplotlib
+dataframe-image
+pandas
+beautifulsoup4
+SpeechRecognition
+pydub
+uwsgi
